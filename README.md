@@ -49,12 +49,12 @@ pip install jupyterlab
 
 ### Initial Page
 
-![Initial_page](./Images/initial_page.png)
+![Initial_page](./images/initial_page.png)
 
 ### Working pages
 
-![Ham_page](./Images/ham_page.png)
-![Spam_page](./Images/spam_page.png)
+![Ham_page](./images/ham_page.png)
+![Spam_page](./images/spam_page.png)
 
 ---
 
@@ -65,4 +65,6 @@ pip install jupyterlab
 - Extend the classifier to detect not just spam, but also phishing attempts.
 ---
 
-**Now go ahead and have some fun! 🌀**
+**THIS MIGHT BE HAVE A MINOR PROJECT. BUT THIS IS SOMETHING GREAT FOR ME, NEW FOR ME**
+
+**Now go ahead and have fun! 🌀**
