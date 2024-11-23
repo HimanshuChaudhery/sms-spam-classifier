@@ -65,6 +65,6 @@ pip install jupyterlab
 - Extend the classifier to detect not just spam, but also phishing attempts.
 ---
 
-**THIS MIGHT BE HAVE A MINOR PROJECT. BUT THIS IS SOMETHING GREAT FOR ME, NEW FOR ME**
+**THIS MIGHT BE A MINOR PROJECT. BUT THIS IS SOMETHING GREAT FOR ME, NEW FOR ME**
 
 **Now go ahead and have fun! 🌀**
